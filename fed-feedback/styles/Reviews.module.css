@@ -1,0 +1,8 @@
+.multipleChoice {
+  list-style: none;
+  padding-left: 0;
+}
+
+.multipleChoice li {
+  padding-bottom: 5px;
+}

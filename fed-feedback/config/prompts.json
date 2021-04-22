@@ -1,0 +1,17 @@
+[
+  {
+    "promptType": "boolean",
+    "question": "Are you learning?"
+  },
+  {
+    "promptType": "shortAnswer",
+    "question": "How do you feel?"
+  },
+  {
+    "promptType": "multipleChoice",
+    "question": "Whats your favorite letter?",
+    "options": [
+      "A", "B", "C", "D"
+    ]
+  }
+]

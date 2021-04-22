@@ -1,4 +1,5 @@
 import Navigation from '../../components/navigation'
+import PromptGenerator from '../../components/promptGenerator'
 
 import styles from '../../styles/Home.module.css'
 
@@ -10,6 +11,10 @@ export default function Reviews() {
         <h1 className={styles.title}>
           FED Reviews
         </h1>
+
+        <div>
+          <PromptGenerator />
+        </div>
 
       </main>
 
